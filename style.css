@@ -1,0 +1,50 @@
+body{
+    box-sizing: border-box;
+}
+
+.sideBar{
+    height: 100%;
+    padding: 10 0 0 10px;
+
+    position: fixed;
+	overflow-y: auto;
+	scrollbar-color: rgba(0,0,0,0.2) #ffc107;
+	scrollbar-width: thin;
+
+}
+
+
+.bgcolor{
+    background-color: #252525;
+}
+.coler{
+    color: #ffc107;
+}
+.bgcolor h5{
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.profile{
+    height: 180px;
+    width: 180px;
+    background-color: ;
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 2px solid green;
+    
+}
+
+
+
+
+
+
+
+
+
+
